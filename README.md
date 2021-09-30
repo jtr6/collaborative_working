@@ -1,7 +1,7 @@
 # collaborative_working
 A test repo for collaborative working practises
 
-
+Check out the "projects" tab above (or click [here](https://github.com/jtr6/collaborative_working/projects/1)) for a to-do list, and the "wiki" tab for the wiki
 
 ------------------------------
 Some examples of links:
