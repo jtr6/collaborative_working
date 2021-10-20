@@ -14,7 +14,7 @@ If you're new to using git & GitHub, here's a suggested workflow for editing thi
 
 The readme.md files and wiki are formatted in [markdown](https://www.markdownguide.org/basic-syntax/)
 
-There is a file storage limit on each repository, so this is *not intended as a place to store large files such as data!* Please keep this space for meeting notes, to-do lists and code including LaTeX files. You can add links in markdown, however bear in mind that these repositories are all public.
+There is a file storage limit on each repository, so this is *not intended as a place to store large files such as data!* Please keep this space for meeting notes, to-do lists and code including LaTeX files. We suggest you host data, large plots and pdfs etc. externally and add links to them here. You can add links in markdown, however bear in mind that these repositories are all public.
 
 ------------------------------
 
