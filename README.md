@@ -8,7 +8,7 @@ This is a template work space for AtLAST working group collaboration.
 3) Accept the invitation that arrives via email - note: you need to be logged in to GitHub to see this!
 4) Explore the workspace! Check out the "projects" tab above for a to-do list, and the "wiki" tab. Add your name to the collaborators list.
 
-Depending on your familiarity with git, you can either edit the wiki, projects and files in-browser, or you can clone this repository & work locally with your usual git workflow, committing changes regularly.
+Depending on your familiarity with git, you can either edit the wiki, projects and files in-browser, or you can clone this repository & work locally with your usual git workflow, committing changes regularly. Working groups should come up with a workflow - this could involve each member creating a branch to make changes, and doing a pull request to merge.
 
 If you're new to using git & GitHub, here's a suggested workflow for editing things in-browser: [GitHub workflow](https://github.blog/2013-07-11-github-flow-in-the-browser/)
 
